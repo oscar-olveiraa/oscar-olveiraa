@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/oscar-olveiraa/oscar-olveiraa/blob/output/github-contribution-grid-snake.svg)
+
+###
