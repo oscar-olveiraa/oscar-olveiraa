@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">Visitas a tempo real:</h2>
+<h2 align="left">Visitas totales:</h2>
 
 ###
 
