@@ -7,8 +7,7 @@
 </h
 
 ###
-
-<img align="right" height="120" src="https://media.tenor.com/d2goKH2JmfoAAAAM/spyro-spyro-glasses.gif"  />
+<img align="right" height="115" src="https://media.tenor.com/d2goKH2JmfoAAAAM/spyro-spyro-glasses.gif"  />
 
 ###
 
