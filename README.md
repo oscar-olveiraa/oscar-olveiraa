@@ -42,6 +42,9 @@
 
 ###
 
-![Snake animation](https://github.com/oscar-olveiraa/oscar-olveiraa/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img  src="https://github.com/oscar-olveiraa/oscar-olveiraa/blob/main/.github/workflows/grid-snake2.svg"
+       alt="snake" /></a>
+</div>
 
 ###
