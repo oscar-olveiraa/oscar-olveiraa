@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/oskarxunho_06/" target="_blank">
+  <a href="https://www.instagram.com/oskarxunho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/419265790018060298" target="_blank">
